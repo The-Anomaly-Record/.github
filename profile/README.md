@@ -1,10 +1,3 @@
-# 🎮 Game Development Workspace
-
-  Welcome to **nexus**!
-  This will be the workspace where a project combining Unreal Engine 5 and Spring Boot will be developed. The project name is undecided, and
-  the current plan is to introduce Spring Boot into the matchmaking process for client developer positioning that helps determine who should
-  be placed in the same room/server as whom.
-
 ## 📌 작업 공간의 목적
 
   - **Unreal Engine 5 + Spring Boot** 기반 게임 프로젝트의 개발 허브
